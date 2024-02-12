@@ -1,0 +1,10 @@
+C:\Users\Berkay\Desktop\SimpleProjects\Encrypt_Decrypt\Encrypt_Decrypt\Encrypt_Decrypt\bin\Debug\Encrypt_Decrypt.exe.config
+C:\Users\Berkay\Desktop\SimpleProjects\Encrypt_Decrypt\Encrypt_Decrypt\Encrypt_Decrypt\bin\Debug\Encrypt_Decrypt.exe
+C:\Users\Berkay\Desktop\SimpleProjects\Encrypt_Decrypt\Encrypt_Decrypt\Encrypt_Decrypt\bin\Debug\Encrypt_Decrypt.pdb
+C:\Users\Berkay\Desktop\SimpleProjects\Encrypt_Decrypt\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.csproj.AssemblyReference.cache
+C:\Users\Berkay\Desktop\SimpleProjects\Encrypt_Decrypt\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.Form1.resources
+C:\Users\Berkay\Desktop\SimpleProjects\Encrypt_Decrypt\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.Properties.Resources.resources
+C:\Users\Berkay\Desktop\SimpleProjects\Encrypt_Decrypt\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.csproj.GenerateResource.cache
+C:\Users\Berkay\Desktop\SimpleProjects\Encrypt_Decrypt\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\SimpleProjects\Encrypt_Decrypt\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.exe
+C:\Users\Berkay\Desktop\SimpleProjects\Encrypt_Decrypt\Encrypt_Decrypt\Encrypt_Decrypt\obj\Debug\Encrypt_Decrypt.pdb
